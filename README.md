@@ -15,3 +15,4 @@ A strong and random password will be displayed in the designated field.
 To use the generated password, click the "Copy" button to copy it to your clipboard.
 Paste the password into the password field of the website or system where you want to use it. 
 Click the link below for the deployed page. 
+https://campbellgarrison.github.io/Password-Generator-/
