@@ -7,6 +7,7 @@ Generate secure passwords: The Password Generator creates strong passwords using
 Customize password length: You can specify the desired length of the generated password to meet the requirements of different websites or systems.
 Copy to clipboard: The generated password can be easily copied to the clipboard for convenient pasting into password fields.
 # How to Use #
+![image](https://github.com/CampbellGarrison/Password-Generator-/assets/130091714/89b924e8-7d23-4309-b623-d82b78f5f9e0)
 Launch the Password Generator application.
 Select the desired password length by adjusting the slider or entering a value manually.
 Click the "Generate Password" button.
